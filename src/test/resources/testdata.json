@@ -1,0 +1,15 @@
+{
+  "createStudent": {
+    "id": 11,
+    "name": "Akhila",
+    "age": 22,
+    "email": "akhilabolla.11@gmail.com"
+  },
+  "UpdateStudent": {
+    "id": 11,
+    "name": "Akhila",
+    "age": 21,
+    "email": "akhilabolla.11@gmail.com"
+  }
+
+}
